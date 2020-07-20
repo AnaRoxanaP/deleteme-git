@@ -10,3 +10,4 @@
 ##Drinks
 
 -[Cola](recipes/cola.md)
+-[Cocktail](recipes/cocktail.md)
