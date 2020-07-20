@@ -1,0 +1,2 @@
+user="ceva"
+pwd=1234
